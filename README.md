@@ -12,4 +12,4 @@ Neste experimento é feita a leitura de um fotoresistor e armazenado em uma vari
 
 ## Esquema do projeto
 
-![Esquema do projeto](medindo_a_luminosidade.png)
+![Esquema do projeto](Medindo_a_luminosidade.png)
